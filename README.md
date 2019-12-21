@@ -40,4 +40,4 @@ python3 lqg.py
 ```
 
 
-For more detailed information you can view this [report]().
+For more detailed information you can view this [report](https://github.com/SaumilShah66/Dual_pendulum/blob/master/ENPM667_FinalProject_Saumil_Smriti.pdf).
