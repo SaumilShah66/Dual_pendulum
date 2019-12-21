@@ -20,6 +20,8 @@ pip3 install numpy scipy control matplotlib
 
 ### LQR (Linear Quadratic Regulator)
 
+![demo](https://github.com/SaumilShah66/Dual_pendulum/blob/master/demo.gif)
+
 You can change the initial conditions in the file lqr.py and you can also play aroud with Q and R values in the code to get the different results as per need. Though given values are optimized in terms of control and effort to control. Use following command to run the LQR controller,
 ```
 python3 lqr.py
